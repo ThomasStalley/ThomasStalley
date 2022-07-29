@@ -1,2 +1,3 @@
 - Hi, I’m Thomas Stalley.
 - I am currently an MSc Physics student at UCL.
+- Most of my work is private; i.e. personal data and university research.
